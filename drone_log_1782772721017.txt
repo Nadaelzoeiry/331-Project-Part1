@@ -1,0 +1,10 @@
+Drone navigation simulation started
+CYCLE 1
+Sensor failure: Sensor A failed (hardware fault)
+Sensor failure: Sensor B failed (hardware fault)
+[RELIABILITY] Reliability failure — fewer than 2 valid sensors in this cycle  (consecutive failures: 1)
+CYCLE 2
+Sensor failure: Sensor B failed (hardware fault)
+Sensor failure: Sensor C failed (hardware fault)
+[RELIABILITY] Reliability failure — fewer than 2 valid sensors in this cycle  (consecutive failures: 2)
+SAFE MODE ACTIVATED: Two consecutive voting failures detected — SAFE MODE activated

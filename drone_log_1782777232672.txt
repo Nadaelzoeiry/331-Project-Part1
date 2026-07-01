@@ -1,0 +1,8 @@
+Drone navigation simulation started
+CYCLE 1
+Corrupted data: Sensor C returned 284 m, outside valid range
+[FALLBACK] No majority found — using last valid altitude: 100 m  (consecutive failures: 1)
+CYCLE 2
+Corrupted data: Sensor B returned 298 m, outside valid range
+[FALLBACK] No majority found — using last valid altitude: 100 m  (consecutive failures: 2)
+SAFE MODE ACTIVATED: Two consecutive voting failures detected — SAFE MODE activated

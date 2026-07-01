@@ -1,0 +1,9 @@
+Drone navigation simulation started
+CYCLE 1
+Corrupted data: Sensor B returned 286 m, outside valid range
+[FALLBACK] No majority found — using last valid altitude: 100 m  (consecutive failures: 1)
+CYCLE 2
+Corrupted data: Sensor A returned 261 m, outside valid range
+Corrupted data: Sensor C returned 234 m, outside valid range
+[RELIABILITY] Reliability failure — fewer than 2 valid sensors in this cycle  (consecutive failures: 2)
+SAFE MODE ACTIVATED: Two consecutive voting failures detected — SAFE MODE activated
